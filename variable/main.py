@@ -1,4 +1,4 @@
-""" ==========Python Variables========== """
+""" ==========Python Variable========== """
 x = 5
 y = "Khadafi"
 print(x)
